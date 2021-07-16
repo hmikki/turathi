@@ -1,0 +1,791 @@
+" translation="Hoog" />
+      <value name="Low" translation="Laag" />
+      <value name="Medium" translation="Gemiddeld" />
+    </setting>
+    <setting name="Display Mode" translation="Beeldschermmodus">
+      <value name="Full-screen" translation="Volledig scherm" />
+      <value name="Windowed" translation="In venster" />
+      <value name="Windowed Borderless" translation="Randloos zonder vensters" />
+    </setting>
+    <setting name="FXAA" translation="FXAA">
+      <value name="No" translation="Nee" />
+      <value name="Yes" translation="Ja" />
+    </setting>
+    <setting name="Number of Corpses" translation="Aantal lijken">
+      <value name="Large" translation="Groot" />
+      <value name="Medium" translation="Gemiddeld" />
+      <value name="Small" translation="Klein" />
+      <value name="Tiny" translation="Zeer klein" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Multi-Frame Sampled Anti-Aliasing">
+      <value name="Off" translation="Uit" />
+      <value name="On" translation="Aan" />
+    </setting>
+    <setting name="Resolution" translation="Resolutie" />
+    <setting name="Shadows" translation="Schaduwen">
+      <value name="High" translation="Hoog" />
+      <value name="Low" translation="Laag" />
+      <value name="Medium" translation="Gemiddeld" />
+      <value name="Off" translation="Uit" />
+    </setting>
+    <setting name="Texture Filtering" translation="Patroonfiltering">
+      <value name="High" translation="Hoog" />
+      <value name="Low" translation="Laag" />
+      <value name="Medium" translation="Gemiddeld" />
+    </setting>
+    <setting name="Texture Quality" translation="Patroonkwaliteit">
+      <value name="Automatic" translation="Automatisch" />
+      <value name="Extra" translation="Extra" />
+      <value name="High" translation="Hoog" />
+      <value name="Low" translation="Laag" />
+      <value name="Normal" translation="Normaal" />
+    </setting>
+  </language>
+  <language name="pl_PL" translation="">
+    <setting name="Ambient Occlusion" translation="Przes≈Çanianie ≈õrodowiska">
+      <value name="Off" translation="Wy≈ÇƒÖcz" />
+      <value name="On" translation="W≈ÇƒÖcz" />
+    </setting>
+    <setting name="Anti-aliasing" translation="Wyg≈Çadzanie krawƒôdzi">
+      <value name="16x CSAA" translation="16x CSAA" />
+      <value name="2x MSAA" translation="2x MSAA" />
+      <value name="2x TXAA" translation="2xTXAA" />
+      <value name="4x MSAA" translation="4x MSAA" />
+      <value name="4x TXAA" translation="4xTXAA" />
+      <value name="8x MSAA" translation="8x MSAA" />
+      <value name="Off" translation="Wy≈ÇƒÖcz" />
+    </setting>
+    <setting name="Depth of Field" translation="G≈Çƒôbia ostro≈õci">
+      <value name="High" translation="Wysoka" />
+      <value name="Low" translation="Niska" />
+      <value name="Medium" translation="≈örednia" />
+    </setting>
+    <setting name="Display Mode" translation="Tryb wy≈õwietlania">
+      <value name="Full-screen" translation="Pe≈Çny ekran" />
+      <value name="Windowed" translation="Okienkowy" />
+      <value name="Windowed Borderless" translation="Okienkowy bez ramki" />
+    </setting>
+    <setting name="FXAA" translation="FXAA">
+      <value name="No" translation="Nie" />
+      <value name="Yes" translation="Tak" />
+    </setting>
+    <setting name="Number of Corpses" translation="Liczba zw≈Çok">
+      <value name="Large" translation="Wielka" />
+      <value name="Medium" translation="≈örednia" />
+      <value name="Small" translation="Ma≈Ça" />
+      <value name="Tiny" translation="Bardzo ma≈Ça" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Wyg≈Çadzanie krawƒôdzi z pr√≥bkowaniem wielu klatek NVIDIA">
+      <value name="Off" translation="Wy≈ÇƒÖcz" />
+      <value name="On" translation="W≈ÇƒÖcz" />
+    </setting>
+    <setting name="Resolution" translation="Rozdzielczo≈õƒá" />
+    <setting name="Shadows" translation="Cienie">
+      <value name="High" translation="Wysokie" />
+      <value name="Low" translation="Niskie" />
+      <value name="Medium" translation="≈örednie" />
+      <value name="Off" translation="Wy≈ÇƒÖcz" />
+    </setting>
+    <setting name="Texture Filtering" translation="Filtrowanie tekstur">
+      <value name="High" translation="Wysoki" />
+      <value name="Low" translation="Niski" />
+      <value name="Medium" translation="≈öredni" />
+    </setting>
+    <setting name="Texture Quality" translation="Jako≈õƒá tekstur">
+      <value name="Automatic" translation="Automatyczna" />
+      <value name="Extra" translation="Ekstra" />
+      <value name="High" translation="Wysoka" />
+      <value name="Low" translation="Niska" />
+      <value name="Normal" translation="Normalna" />
+    </setting>
+  </language>
+  <language name="pt_BR" translation="">
+    <setting name="Ambient Occlusion" translation="Oclus√£o ambiental">
+      <value name="Off" translation="Desligada" />
+      <value name="On" translation="Ligada" />
+    </setting>
+    <setting name="Anti-aliasing" translation="Anti-aliasing">
+      <value name="16x CSAA" translation="16x CSAA" />
+      <value name="2x MSAA" translation="2x MSAA" />
+      <value name="2x TXAA" translation="2xTXAA" />
+      <value name="4x MSAA" translation="4x MSAA" />
+      <value name="4x TXAA" translation="4xTXAA" />
+      <value name="8x MSAA" translation="8x MSAA" />
+      <value name="Off" translation="Desligado" />
+    </setting>
+    <setting name="Depth of Field" translation="Profundidade do Campo">
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baixa" />
+      <value name="Medium" translation="M√©dio" />
+    </setting>
+    <setting name="Display Mode" translation="Modo de video">
+      <value name="Full-screen" translation="Tela inteira" />
+      <value name="Windowed" translation="Em Janelas" />
+      <value name="Windowed Borderless" translation="Janela sem Borda" />
+    </setting>
+    <setting name="FXAA" translation="FXAA">
+      <value name="No" translation="N√£o" />
+      <value name="Yes" translation="Sim" />
+    </setting>
+    <setting name="Number of Corpses" translation="N√∫mero de Cad√°veres">
+      <value name="Large" translation="Grande" />
+      <value name="Medium" translation="M√©dio" />
+      <value name="Small" translation="Pequeno" />
+      <value name="Tiny" translation="Muito pequeno" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Antisserrilhamento de amostragem multiquadros NVIDIA ">
+      <value name="Off" translation="Desligado" />
+      <value name="On" translation="Ligado" />
+    </setting>
+    <setting name="Resolution" translation="Resolu√ß√£o" />
+    <setting name="Shadows" translation="Sombras">
+      <value name="High" translation="Altas" />
+      <value name="Low" translation="Baixas" />
+      <value name="Medium" translation="M√©dias" />
+      <value name="Off" translation="Desligadas" />
+    </setting>
+    <setting name="Texture Filtering" translation="Filtragem da Textura">
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baixa" />
+      <value name="Medium" translation="M√©dia" />
+    </setting>
+    <setting name="Texture Quality" translation="Qualidade da Textura">
+      <value name="Automatic" translation="Autom√°tica" />
+      <value name="Extra" translation="Extra" />
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baixa" />
+      <value name="Normal" translation="Normal" />
+    </setting>
+  </language>
+  <language name="pt_PT" translation="">
+    <setting name="Ambient Occlusion" translation="Oclus√£o ambiental">
+      <value name="Off" translation="Desactivar" />
+      <value name="On" translation="Activar" />
+    </setting>
+    <setting name="Anti-aliasing" translation="Antialiasing">
+      <value name="16x CSAA" translation="16x CSAA" />
+      <value name="2x MSAA" translation="2x MSAA" />
+      <value name="2x TXAA" translation="2xTXAA" />
+      <value name="4x MSAA" translation="4x MSAA" />
+      <value name="4x TXAA" translation="4xTXAA" />
+      <value name="8x MSAA" translation="8x MSAA" />
+      <value name="Off" translation="Desactivar" />
+    </setting>
+    <setting name="Depth of Field" translation="Profundidade de campo">
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baixa" />
+      <value name="Medium" translation="M√©dia" />
+    </setting>
+    <setting name="Display Mode" translation="Modo de visualiza√ß√£o">
+      <value name="Full-screen" translation="Ecr√£ inteiro" />
+      <value name="Windowed" translation="Modo de janela" />
+      <value name="Windowed Borderless" translation="Modo de janela sem margem" />
+    </setting>
+    <setting name="FXAA" translation="FXAA">
+      <value name="No" translation="N√£o" />
+      <value name="Yes" translation="Sim" />
+    </setting>
+    <setting name="Number of Corpses" translation="N√∫mero de cad√°veres">
+      <value name="Large" translation="Grande" />
+      <value name="Medium" translation="N√≠vel m√©dio" />
+      <value name="Small" translation="Pequeno" />
+      <value name="Tiny" translation="Muito pequeno" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Antialiasing de Amostragem de Multi-Videograma da NVIDIA">
+      <value name="Off" translation="Desactivar" />
+      <value name="On" translation="Activar" />
+    </setting>
+    <setting name="Resolution" translation="Resolu√ß√£o" />
+    <setting name="Shadows" translation="Sombras">
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baixa" />
+      <value name="Medium" translation="M√©dia" />
+      <value name="Off" translation="Desactivar" />
+    </setting>
+    <setting name="Texture Filtering" translation="Filtra√ß√£o de texturas">
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baixa" />
+      <value name="Medium" translation="M√©dia" />
+    </setting>
+    <setting name="Texture Quality" translation="Qualidade das texturas">
+      <value name="Automatic" translation="Autom√°tica" />
+      <value name="Extra" translation="Extra" />
+      <value name="High" translation="Alta" />
+      <value name="Low" translation="Baixa" />
+      <value name="Normal" translation="Normal" />
+    </setting>
+  </language>
+  <language name="ru_RU" translation="">
+    <setting name="Ambient Occlusion" translation="–ó–∞—Ç–µ–Ω–µ–Ω–∏–µ —Ñ–æ–Ω–æ–≤–æ–≥–æ –æ—Å–≤–µ—â–µ–Ω–∏—è">
+      <value name="Off" translation="–í—ã–∫–ª." />
+      <value name="On" translation="–í–∫–ª." />
+    </setting>
+    <setting name="Anti-aliasing" translation="–°–≥–ª–∞–∂–∏–≤–∞–Ω–∏–µ">
+      <value name="16x CSAA" translation="16x CSAA" />
+      <value name="2x MSAA" translation="2x MSAA" />
+      <value name="2x TXAA" translation="2xTXAA" />
+      <value name="4x MSAA" translation="4x MSAA" />
+      <value name="4x TXAA" translation="4xTXAA" />
+      <value name="8x MSAA" translation="8x MSAA" />
+      <value name="Off" translation="–í—ã–∫–ª." />
+    </setting>
+    <setting name="Depth of Field" translation="–ì–ª—É–±–∏–Ω–∞ —Ä–µ–∑–∫–æ—Å—Ç–∏">
+      <value name="High" translation="–í—ã—Å–æ–∫–∞—è" />
+      <value name="Low" translation="–ù–∏–∑–∫–∞—è" />
+      <value name="Medium" translation="–°—Ä–µ–¥–Ω—è—è" />
+    </setting>
+    <setting name="Display Mode" translation="–≠–∫—Ä–∞–Ω–Ω—ã–π —Ä–µ–∂–∏–º">
+      <value name="Full-screen" translation="–ü–æ–ª–Ω—ã–π —ç–∫—Ä–∞–Ω" />
+      <value name="Windowed" translation="–í –æ–∫–Ω–µ" />
+      <value name="Windowed Borderless" translation="–í –æ–∫–Ω–µ –±–µ–∑ —Ä–∞–º–∫–∏" />
+    </setting>
+    <setting name="FXAA" translation="–°–≥–ª–∞–∂–∏–≤–∞–Ω–∏–µ –ø—Ä–∏ –ø–æ—Å—Ç-–æ–±—Ä–∞–±–æ—Ç–∫–µ">
+      <value name="No" translation="–ù–µ—Ç" />
+      <value name="Yes" translation="–î–∞" />
+    </setting>
+    <setting name="Number of Corpses" translation="–ß–∏—Å–ª–æ —Ç—Ä—É–ø–æ–≤">
+      <value name="Large" translation="–ë–æ–ª—å—à–æ–µ" />
+      <value name="Medium" translation="–°—Ä–µ–¥–Ω–µ–µ" />
+      <value name="Small" translation="–ù–µ–±–æ–ª—å—à–æ–µ" />
+      <value name="Tiny" translation="–ú–∞–ª–µ–Ω—å–∫–æ–µ" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="–ú–Ω–æ–≥–æ–∫–∞–¥—Ä–æ–≤–æ–µ —Å–≥–ª–∞–∂–∏–≤–∞–Ω–∏–µ NVIDIA">
+      <value name="Off" translation="–í—ã–∫–ª." />
+      <value name="On" translation="–í–∫–ª." />
+    </setting>
+    <setting name="Resolution" translation="–†–∞–∑—Ä–µ—à–µ–Ω–∏–µ" />
+    <setting name="Shadows" translation="–¢–µ–Ω–∏">
+      <value name="High" translation="–í—ã—Å–æ–∫–æ" />
+      <value name="Low" translation="–ù–∏–∑–∫–æ" />
+      <value name="Medium" translation="–°—Ä–µ–¥–Ω–µ" />
+      <value name="Off" translation="–í—ã–∫–ª." />
+    </setting>
+    <setting name="Texture Filtering" translation="–§–∏–ª—å—Ç—Ä–∞—Ü–∏—è —Ç–µ–∫—Å—Ç—É—Ä">
+      <value name="High" translation="–í—ã—Å–æ–∫–∞—è" />
+      <value name="Low" translation="–ù–∏–∑–∫–∞—è" />
+      <value name="Medium" translation="–°—Ä–µ–¥–Ω—è—è" />
+    </setting>
+    <setting name="Texture Quality" translation="–ö–∞—á–µ—Å—Ç–≤–æ —Ç–µ–∫—Å—Ç—É—Ä—ã">
+      <value name="Automatic" translation="–ê–≤—Ç–æ" />
+      <value name="Extra" translation="–≠–∫—Å—Ç—Ä–∞" />
+      <value name="High" translation="–í—ã—Å–æ–∫–æ–µ" />
+      <value name="Low" translation="–ù–∏–∑–∫–æ–µ" />
+      <value name="Normal" translation="–û–±—ã—á–Ω–æ–µ" />
+    </setting>
+  </language>
+  <language name="sk_SK" translation="">
+    <setting name="Ambient Occlusion" translation="Zatienenie okol√≠m">
+      <value name="Off" translation="Vypnut√©" />
+      <value name="On" translation="Zapnut√©" />
+    </setting>
+    <setting name="Anti-aliasing" translation="Vyhladzovanie">
+      <value name="16x CSAA" translation="CSAA 16 x" />
+      <value name="2x MSAA" translation="MSAA 2 x" />
+      <value name="2x TXAA" translation="Vyhladzovanie TXAA 2x" />
+      <value name="4x MSAA" translation="MSAA 4 x" />
+      <value name="4x TXAA" translation="Vyhladzovanie TXAA 4x" />
+      <value name="8x MSAA" translation="MSAA 8 x" />
+      <value name="Off" translation="Vypnut√©" />
+    </setting>
+    <setting name="Depth of Field" translation="Hƒ∫bka ostrosti">
+      <value name="High" translation="Vysok√°" />
+      <value name="Low" translation="N√≠zka" />
+      <value name="Medium" translation="Stredn√°" />
+    </setting>
+    <setting name="Display Mode" translation="Re≈æim zobrazenia">
+      <value name="Full-screen" translation="Na cel√∫ obrazovku" />
+      <value name="Windowed" translation="V okne" />
+      <value name="Windowed Borderless" translation="V okne bez or√°movania" />
+    </setting>
+    <setting name="FXAA" translation="Vyhladzovanie FXAA">
+      <value name="No" translation="Nie" />
+      <value name="Yes" translation="√Åno" />
+    </setting>
+    <setting name="Number of Corpses" translation="Poƒçet m≈ïtvol">
+      <value name="Large" translation="Veƒæk√Ω" />
+      <value name="Medium" translation="Stredn√Ω" />
+      <value name="Small" translation="Mal√Ω" />
+      <value name="Tiny" translation="Veƒæmi mal√Ω" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Viacsn√≠mkov√© vyhladzovanie NVIDIA">
+      <value name="Off" translation="Vypnut√©" />
+      <value name="On" translation="Zapnut√©" />
+    </setting>
+    <setting name="Resolution" translation="Rozl√≠≈°enie" />
+    <setting name="Shadows" translation="Tiene">
+      <value name="High" translation="Vysok√©" />
+      <value name="Low" translation="N√≠zke" />
+      <value name="Medium" translation="Stredn√©" />
+      <value name="Off" translation="Vypnut√©" />
+    </setting>
+    <setting name="Texture Filtering" translation="Filtrovanie text√∫r">
+      <value name="High" translation="Vysok√©" />
+      <value name="Low" translation="N√≠zke" />
+      <value name="Medium" translation="Stredn√©" />
+    </setting>
+    <setting name="Texture Quality" translation="Kvalita text√∫ry">
+      <value name="Automatic" translation="Automatick√°" />
+      <value name="Extra" translation="Mimoriadne vysok√°" />
+      <value name="High" translation="Vysok√°" />
+      <value name="Low" translation="N√≠zka" />
+      <value name="Normal" translation="Norm√°lna" />
+    </setting>
+  </language>
+  <language name="sl_SI" translation="">
+    <setting name="Ambient Occlusion" translation="Zapiranje okolice">
+      <value name="Off" translation="Izklop" />
+      <value name="On" translation="Vklop" />
+    </setting>
+    <setting name="Anti-aliasing" translation="Glajenje robov">
+      <value name="16x CSAA" translation="16x CSAA" />
+      <value name="2x MSAA" translation="2x veƒçvzorƒçno glajenje robov" />
+      <value name="2x TXAA" translation="TXAA 2 x" />
+      <value name="4x MSAA" translation="4x veƒçvzorƒçno glajenje robov" />
+      <value name="4x TXAA" translation="TXAA 4 x" />
+      <value name="8x MSAA" translation="8x veƒçvzorƒçno glajenje robov" />
+      <value name="Off" translation="Izklop" />
+    </setting>
+    <setting name="Depth of Field" translation="Globina polja">
+      <value name="High" translation="Visoko" />
+      <value name="Low" translation="Nizko" />
+      <value name="Medium" translation="Srednje" />
+    </setting>
+    <setting name="Display Mode" translation="Zaslonski naƒçin">
+      <value name="Full-screen" translation="Celoten zaslon" />
+      <value name="Windowed" translation="V oknu" />
+      <value name="Windowed Borderless" translation="Naƒçin brezrobega okna" />
+    </setting>
+    <setting name="FXAA" translation="Naknadno glajenje robov">
+      <value name="No" translation="Ne" />
+      <value name="Yes" translation="Da" />
+    </setting>
+    <setting name="Number of Corpses" translation="≈†tevilo trupel">
+      <value name="Large" translation="Veliko" />
+      <value name="Medium" translation="Srednje" />
+      <value name="Small" translation="Majhno" />
+      <value name="Tiny" translation="Majhen" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA vzorƒçno glajenje robov z veƒç okviri">
+      <value name="Off" translation="Izklop" />
+      <value name="On" translation="Vklop" />
+    </setting>
+    <setting name="Resolution" translation="Loƒçljivost" />
+    <setting name="Shadows" translation="Sence">
+      <value name="High" translation="Visok" />
+      <value name="Low" translation="Nizko" />
+      <value name="Medium" translation="Srednje" />
+      <value name="Off" translation="Izklop" />
+    </setting>
+    <setting name="Texture Filtering" translation="Filtriranje tekstur">
+      <value name="High" translation="Visoko" />
+      <value name="Low" translation="Nizko" />
+      <value name="Medium" translation="Srednje" />
+    </setting>
+    <setting name="Texture Quality" translation="Kakovost teksture">
+      <value name="Automatic" translation="Samodejno" />
+      <value name="Extra" translation="Dodatno" />
+      <value name="High" translation="Visoko" />
+      <value name="Low" translation="Nizko" />
+      <value name="Normal" translation="Obiƒçajno" />
+    </setting>
+  </language>
+  <language name="sv_SE" translation="">
+    <setting name="Ambient Occlusion" translation="Omgivande inneslutning">
+      <value name="Off" translation="Av" />
+      <value name="On" translation="P√•" />
+    </setting>
+    <setting name="Anti-aliasing" translation="Kantutj√§mning">
+      <value name="16x CSAA" translation="16x CSAA" />
+      <value name="2x MSAA" translation="2x MSAA" />
+      <value name="2x TXAA" translation="2xTXAA" />
+      <value name="4x MSAA" translation="4x MSAA" />
+      <value name="4x TXAA" translation="4xTXAA" />
+      <value name="8x MSAA" translation="8x MSAA" />
+      <value name="Off" translation="Av" />
+    </setting>
+    <setting name="Depth of Field" translation="Sk√§rpedjup">
+      <value name="High" translation="H√∂g" />
+      <value name="Low" translation="L√•g" />
+      <value name="Medium" translation="Medel" />
+    </setting>
+    <setting name="Display Mode" translation="Visningsl√§ge">
+      <value name="Full-screen" translation="Helsk√§rm" />
+      <value name="Windowed" translation="I f√∂nster" />
+      <value name="Windowed Borderless" translation="Kantl√∂st i f√∂nster" />
+    </setting>
+    <setting name="FXAA" translation="FXAA">
+      <value name="No" translation="Nej" />
+      <value name="Yes" translation="Ja" />
+    </setting>
+    <setting name="Number of Corpses" translation="Antal lik">
+      <value name="Large" translation="Stor" />
+      <value name="Medium" translation="Medel" />
+      <value name="Small" translation="Liten" />
+      <value name="Tiny" translation="Liten" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA flerbildssamplad kantutj√§mning">
+      <value name="Off" translation="Av" />
+      <value name="On" translation="P√•" />
+    </setting>
+    <setting name="Resolution" translation="Uppl√∂sning" />
+    <setting name="Shadows" translation="Skuggor">
+      <value name="High" translation="H√∂g" />
+      <value name="Low" translation="L√•g" />
+      <value name="Medium" translation="Medel" />
+      <value name="Off" translation="Av" />
+    </setting>
+    <setting name="Texture Filtering" translation="Texturfiltrering">
+      <value name="High" translation="H√∂gt" />
+      <value name="Low" translation="L√•g" />
+      <value name="Medium" translation="Medel" />
+    </setting>
+    <setting name="Texture Quality" translation="Texturkvalitet">
+      <value name="Automatic" translation="Automatisk" />
+      <value name="Extra" translation="Extra" />
+      <value name="High" translation="H√∂g" />
+      <value name="Low" translation="L√•g" />
+      <value name="Normal" translation="Normal" />
+    </setting>
+  </language>
+  <language name="th_TH" translation="">
+    <setting name="Ambient Occlusion" translation="‡∏Å‡∏≤‡∏£‡∏ö‡∏î‡∏ö‡∏±‡∏á‡πÅ‡∏™‡∏á‡πÅ‡∏ß‡∏î‡∏•‡πâ‡∏≠‡∏°">
+      <value name="Off" translation="‡∏õ‡∏¥‡∏î" />
+      <value name="On" translation="‡πÄ‡∏õ‡∏¥‡∏î" />
+    </setting>
+    <setting name="Anti-aliasing" translation="‡∏Å‡∏≤‡∏£‡∏•‡∏î‡∏£‡∏≠‡∏¢‡∏´‡∏¢‡∏±‡∏Å">
+      <value name="16x CSAA" translation="16x CSAA" />
+      <value name="2x MSAA" translation="2x MSAA" />
+      <value name="2x TXAA" translation="2xTXAA" />
+      <value name="4x MSAA" translation="4x MSAA" />
+      <value name="4x TXAA" translation="4xTXAA" />
+      <value name="8x MSAA" translation="8x MSAA" />
+      <value name="Off" translation="‡∏õ‡∏¥‡∏î" />
+    </setting>
+    <setting name="Depth of Field" translation="‡∏£‡∏∞‡∏¢‡∏∞‡∏ä‡∏±‡∏î‡∏•‡∏∂‡∏Å">
+      <value name="High" translation="‡∏™‡∏π‡∏á" />
+      <value name="Low" translation="‡∏ï‡πà‡∏≥" />
+      <value name="Medium" translation="‡∏õ‡∏≤‡∏ô‡∏Å‡∏•‡∏≤‡∏á" />
+    </setting>
+    <setting name="Display Mode" translation="‡πÇ‡∏´‡∏°‡∏î‡∏Å‡∏≤‡∏£‡πÅ‡∏™‡∏î‡∏á‡∏ú‡∏•">
+      <value name="Full-screen" translation="‡πÄ‡∏ï‡πá‡∏°‡∏´‡∏ô‡πâ‡∏≤‡∏à‡∏≠" />
+      <value name="Windowed" translation="‡πÅ‡∏ö‡∏ö‡∏´‡∏ô‡πâ‡∏≤‡∏ï‡πà‡∏≤‡∏á" />
+      <value name="Windowed Borderless" translation="‡∏´‡∏ô‡πâ‡∏≤‡∏ï‡πà‡∏≤‡∏á‡πÅ‡∏ö‡∏ö‡πÑ‡∏°‡πà‡∏°‡∏µ‡∏Ç‡∏≠‡∏ö" />
+    </setting>
+    <setting name="FXAA" translation="FXAA">
+      <value name="No" translation="‡πÑ‡∏°‡πà‡∏°‡∏µ" />
+      <value name="Yes" translation="‡∏°‡∏µ" />
+    </setting>
+    <setting name="Number of Corpses" translation="‡∏à‡∏≥‡∏ô‡∏ß‡∏ô‡∏Ç‡∏≠‡∏á‡∏ã‡∏≤‡∏Å‡∏®‡∏û">
+      <value name="Large" translation="‡∏°‡∏≤‡∏Å" />
+      <value name="Medium" translation="‡∏õ‡∏≤‡∏ô‡∏Å‡∏•‡∏≤‡∏á" />
+      <value name="Small" translation="‡∏ô‡πâ‡∏≠‡∏¢" />
+      <value name="Tiny" translation="‡∏ô‡πâ‡∏≠‡∏¢‡∏°‡∏≤‡∏Å" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="‡∏Å‡∏≤‡∏£‡∏•‡∏ö‡∏£‡∏≠‡∏¢‡∏´‡∏¢‡∏±‡∏Å‡πÅ‡∏ö‡∏ö Multi-Frame Sampled ‡∏Ç‡∏≠‡∏á NVIDIA ">
+      <value name="Off" translation="‡∏õ‡∏¥‡∏î" />
+      <value name="On" translation="‡πÄ‡∏õ‡∏¥‡∏î" />
+    </setting>
+    <setting name="Resolution" translation="‡∏Ñ‡∏ß‡∏≤‡∏°‡∏•‡∏∞‡πÄ‡∏≠‡∏µ‡∏¢‡∏î" />
+    <setting name="Shadows" translation="‡πÄ‡∏á‡∏≤">
+      <value name="High" translation="‡∏™‡∏π‡∏á" />
+      <value name="Low" translation="‡∏ï‡πà‡∏≥" />
+      <value name="Medium" translation="‡∏õ‡∏≤‡∏ô‡∏Å‡∏•‡∏≤‡∏á" />
+      <value name="Off" translation="‡∏õ‡∏¥‡∏î" />
+    </setting>
+    <setting name="Texture Filtering" translation="‡∏Å‡∏≤‡∏£‡∏Å‡∏£‡∏≠‡∏á‡∏û‡∏∑‡πâ‡∏ô‡∏ú‡∏¥‡∏ß">
+      <value name="High" translation="‡∏™‡∏π‡∏á" />
+      <value name="Low" translation="‡∏ï‡πà‡∏≥" />
+      <value name="Medium" translation="‡∏õ‡∏≤‡∏ô‡∏Å‡∏•‡∏≤‡∏á" />
+    </setting>
+    <setting name="Texture Quality" translation="‡∏Ñ‡∏∏‡∏ì‡∏†‡∏≤‡∏û‡∏Ç‡∏≠‡∏á‡∏û‡∏∑‡πâ‡∏ô‡∏ú‡∏¥‡∏ß">
+      <value name="Automatic" translation="‡∏≠‡∏±‡∏ï‡πÇ‡∏ô‡∏°‡∏±‡∏ï‡∏¥" />
+      <value name="Extra" translation="‡∏û‡∏¥‡πÄ‡∏®‡∏©" />
+      <value name="High" translation="‡∏™‡∏π‡∏á" />
+      <value name="Low" translation="‡∏ï‡πà‡∏≥" />
+      <value name="Normal" translation="‡∏õ‡∏Å‡∏ï‡∏¥" />
+    </setting>
+  </language>
+  <language name="tr_TR" translation="">
+    <setting name="Ambient Occlusion" translation="Ortam Kapatma">
+      <value name="Off" translation="Kapalƒ±" />
+      <value name="On" translation="A√ßƒ±k" />
+    </setting>
+    <setting name="Anti-aliasing" translation="Kenar Yumu≈üatma">
+      <value name="16x CSAA" translation="16x CSAA" />
+      <value name="2x MSAA" translation="2x MSAA" />
+      <value name="2x TXAA" translation="2xTXAA" />
+      <value name="4x MSAA" translation="4x MSAA" />
+      <value name="4x TXAA" translation="4xTXAA" />
+      <value name="8x MSAA" translation="8x MSAA" />
+      <value name="Off" translation="Kapalƒ±" />
+    </setting>
+    <setting name="Depth of Field" translation="Alan Derinliƒüi">
+      <value name="High" translation="Y√ºksek" />
+      <value name="Low" translation="D√º≈ü√ºk" />
+      <value name="Medium" translation="Orta" />
+    </setting>
+    <setting name="Display Mode" translation="Ekran Modu">
+      <value name="Full-screen" translation="Tam Ekran" />
+      <value name="Windowed" translation="Pencere i√ßinde" />
+      <value name="Windowed Borderless" translation="Pencere ƒ∞√ßinde Kenarlƒ±ksƒ±z" />
+    </setting>
+    <setting name="FXAA" translation="FXAA">
+      <value name="No" translation="Hayƒ±r" />
+      <value name="Yes" translation="Evet" />
+    </setting>
+    <setting name="Number of Corpses" translation="Ceset Sayƒ±sƒ±">
+      <value name="Large" translation="B√ºy√ºk" />
+      <value name="Medium" translation="Orta" />
+      <value name="Small" translation="K√º√ß√ºk" />
+      <value name="Tiny" translation="Minik" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Birden √áok √áer√ßeveli √ñrneklemeli Kenar Yumu≈üatma">
+      <value name="Off" translation="Kapalƒ±" />
+      <value name="On" translation="A√ßƒ±k" />
+    </setting>
+    <setting name="Resolution" translation="√á√∂z√ºn√ºrl√ºk" />
+    <setting name="Shadows" translation="G√∂lgeler">
+      <value name="High" translation="Y√ºksek" />
+      <value name="Low" translation="D√º≈ü√ºk" />
+      <value name="Medium" translation="Orta" />
+      <value name="Off" translation="Kapalƒ±" />
+    </setting>
+    <setting name="Texture Filtering" translation="Doku Filtreleme">
+      <value name="High" translation="Y√ºksek" />
+      <value name="Low" translation="D√º≈ü√ºk" />
+      <value name="Medium" translation="Orta" />
+    </setting>
+    <setting name="Texture Quality" translation="Doku Kalitesi">
+      <value name="Automatic" translation="Otomatik" />
+      <value name="Extra" translation="Ekstra" />
+      <value name="High" translation="Y√ºksek" />
+      <value name="Low" translation="D√º≈ü√ºk" />
+      <value name="Normal" translation="Normal" />
+    </setting>
+  </language>
+  <language name="zh_CHS" translation="">
+    <setting name="Ambient Occlusion" translation="ÁéØÂ¢ÉÂÖâÂê∏Êî∂">
+      <value name="Off" translation="ÂÖ≥" />
+      <value name="On" translation="ÂºÄ" />
+    </setting>
+    <setting name="Anti-aliasing" translation="Âπ≥ÊªëÂ§ÑÁêÜ">
+      <value name="16x CSAA" translation="16x CSAA" />
+      <value name="2x MSAA" translation="2x MSAA" />
+      <value name="2x TXAA" translation="2xTXAA" />
+      <value name="4x MSAA" translation="4x MSAA" />
+      <value name="4x TXAA" translation="4xTXAA" />
+      <value name="8x MSAA" translation="8x MSAA" />
+      <value name="Off" translation="ÂÖ≥" />
+    </setting>
+    <setting name="Depth of Field" translation="ÊôØÊ∑±">
+      <value name="High" translation="È´ò" />
+      <value name="Low" translation="‰Ωé" />
+      <value name="Medium" translation="‰∏≠" />
+    </setting>
+    <setting name="Display Mode" translation="ÊòæÁ§∫Ê®°Âºè">
+      <value name="Full-screen" translation="ÂÖ®Â±èÂπï" />
+      <value name="Windowed" translation="Á™óÂè£Âåñ" />
+      <value name="Windowed Borderless" translation="Êó†ËæπÊ°ÜÁ™óÂè£Âåñ" />
+    </setting>
+    <setting name="FXAA" translation="Âø´ÈÄüËøë‰ººÂπ≥ÊªëÂ§ÑÁêÜ">
+      <value name="No" translation="Âê¶" />
+      <value name="Yes" translation="ÊòØ" />
+    </setting>
+    <setting name="Number of Corpses" translation="Â∞∏‰ΩìÊï∞Èáè">
+      <value name="Large" translation="Â§ßÈáè" />
+      <value name="Medium" translation="‰∏≠" />
+      <value name="Small" translation="Â∞è" />
+      <value name="Tiny" translation="ÊûÅÂ∞ëÈáè" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Â§öÂ∏ßÂèñÊ†∑ÂèçÂ§±Áúü">
+      <value name="Off" translation="ÂÖ≥" />
+      <value name="On" translation="ÂºÄ" />
+    </setting>
+    <setting name="Resolution" translation="ÂàÜËæ®Áéá" />
+    <setting name="Shadows" translation="Èò¥ÂΩ±">
+      <value name="High" translation="È´ò" />
+      <value name="Low" translation="‰Ωé" />
+      <value name="Medium" translation="‰∏≠" />
+      <value name="Off" translation="ÂÖ≥" />
+    </setting>
+    <setting name="Texture Filtering" translation="Á∫πÁêÜËøáÊª§">
+      <value name="High" translation="È´ò" />
+      <value name="Low" translation="‰Ωé" />
+      <value name="Medium" translation="‰∏≠" />
+    </setting>
+    <setting name="Texture Quality" translation="Á∫πÁêÜË¥®Èáè">
+      <value name="Automatic" translation="Ëá™Âä®" />
+      <value name="Extra" translation="È¢ùÂ§ñ" />
+      <value name="High" translation="È´ò" />
+      <value name="Low" translation="‰Ωé" />
+      <value name="Normal" translation="Ê≠£Â∏∏" />
+    </setting>
+  </language>
+  <language name="zh_CHT" translation="">
+    <setting name="Ambient Occlusion" translation="Êº´Â∞ÑÈô∞ÂΩ±Áí∞Â†¥ÈÅÆÊìã">
+      <value name="Off" translation="ÈóúÈñâ" />
+      <value name="On" translation="ÈñãÂïü" />
+    </setting>
+    <setting name="Anti-aliasing" translation="Ê∂àÈô§Èã∏ÈΩí">
+      <value name="16x CSAA" translation="16x Ë¶ÜËìãÊé°Ê®£Ê∂àÈô§Èã∏ÈΩí" />
+      <value name="2x MSAA" translation="2x Â§öÈáçÊé°Ê®£Ê∂àÈô§Èã∏ÈΩí" />
+      <value name="2x TXAA" translation="2xTXAA" />
+      <value name="4x MSAA" translation="4x Â§öÈáçÊé°Ê®£Ê∂àÈô§Èã∏ÈΩí" />
+      <value name="4x TXAA" translation="4xTXAA" />
+      <value name="8x MSAA" translation="8x Â§öÈáçÊé°Ê®£Ê∂àÈô§Èã∏ÈΩí" />
+      <value name="Off" translation="ÈóúÈñâ" />
+    </setting>
+    <setting name="Depth of Field" translation="ÊôØÊ∑±">
+      <value name="High" translation="È´ò" />
+      <value name="Low" translation="‰Ωé" />
+      <value name="Medium" translation="‰∏≠" />
+    </setting>
+    <setting name="Display Mode" translation="È°ØÁ§∫Ê®°Âºè">
+      <value name="Full-screen" translation="ÂÖ®Ëû¢Âπï" />
+      <value name="Windowed" translation="Ë¶ñÁ™óÂûã" />
+      <value name="Windowed Borderless" translation="ÁÑ°Ê°ÜË¶ñÁ™ó" />
+    </setting>
+    <setting name="FXAA" translation="Âø´ÈÄüËøë‰ººÊ∂àÈô§Èã∏ÈΩí">
+      <value name="No" translation="Âê¶" />
+      <value name="Yes" translation="ÊòØ" />
+    </setting>
+    <setting name="Number of Corpses" translation="Â±çÈ´îÊï∏">
+      <value name="Large" translation="Â§ß" />
+      <value name="Medium" translation="‰∏≠" />
+      <value name="Small" translation="Â∞è" />
+      <value name="Tiny" translation="ÁãπÂ∞è" />
+    </setting>
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Â§öÁï´Èù¢Êé°Ê®£Ê∂àÈô§Èã∏ÈΩí">
+      <value name="Off" translation="ÈóúÈñâ" />
+      <value name="On" translation="ÈñãÂïü" />
+    </setting>
+    <setting name="Resolution" translation="Ëß£ÊûêÂ∫¶" />
+    <setting name="Shadows" translation="Èô∞ÂΩ±">
+      <value name="High" translation="È´ò" />
+      <value name="Low" translation="‰Ωé" />
+      <value name="Medium" translation="‰∏≠" />
+      <value name="Off" translation="ÈóúÈñâ" />
+    </setting>
+    <setting name="Texture Filtering" translation="Á¥ãÁêÜÁØ©ÈÅ∏">
+      <value name="High" translation="È´ò" />
+      <value name="Low" translation="‰Ωé" />
+      <value name="Medium" translation="‰∏≠" />
+    </setting>
+    <setting name="Texture Quality" translation="ÊùêË≥™ÂìÅË≥™">
+      <value name="Automatic" translation="Ëá™Âãï" />
+      <value name="Extra" translation="È°çÂ§ñ" />
+      <value name="High" translation="È´ò" />
+      <value name="Low" translation="‰Ωé" />
+      <value name="Normal" translation="Ê≠£Â∏∏" />
+    </setting>
+  </language>
+</game>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    LuaQ                    s     E   F@¿ ÅÄ  UÄÄ 	@ÄÄ¿  A  @ $   @ 
+ ÄJ  Å¿ ¡  A J ÅÅ ¡¡ bA ÖA úÄ b@  ä Ä¡   AA äÄ¡Å ¬ A ¢AÄ Ä
+ AB äÄ¡B É AC ¢BÄ"B J Å¬  ÄÉ AC ÅÉ ‚BÄbB ä ¡ 
+ÄAC ÅC ¡C "CÄ¢B ‚AÄ¢@Ä   Å A¡ Å ¡A $B  AÇ ‚@ 
+ÄA¡ Å ¡ B J ä ¡Ç C ¢B   √ AÉ ‚B 
+ A ÅC "C J ÅC ¡É bC ä ¡√ 	 ¢C    AD	 ‚C bB "AÄJÄÅÅ	 ¡ ¬ A¬	 ä   √ AC ‚B 
+ A ÅÉ "C J ÅC ¡C bC ä ¡√ Ñ ¢C ¢B bAÄäÄ¡
+  A¬ ÅB
+   
+ A√ ÅC "C J Å ¡É bC ä ¡C D ¢C   ƒ AÑ ‚C ‚B ¢AÄ ÄÇ
+ A Å¬ ¡¬
+ 
+ J Å√ ¡C bC ä ¡ Ñ ¢C   D AD ‚C 
+ Aƒ ÅÑ "D "C ‚AÄ
+ÄA Å ¡¬ C J ä ¡√ D ¢C    AÑ ‚C 
+ AD ÅD "D J Åƒ ¡Ñ bD bC "BÄJÄÅÇ ¡ √ A√ ä   ƒ AD ‚C 
+ A ÅÑ "D J ÅD ¡D bD ä ¡ƒ Ö ¢D ¢C bBÄäÄ¡  A√ ÅC   
+ Aƒ ÅD "D J Å ¡Ñ bD ä ¡D E ¢D   ≈ AÖ ‚D ‚C ¢BÄ ÄÉ A Å√ ¡√ 
+ J Åƒ ¡D bD ä ¡ Ö ¢D   E AE ‚D 
+ A≈ ÅÖ "E "D ‚BÄ
+ÄA Å ¡C Ñ J ä ¡D E ¢D   ≈ AÖ ‚D 
+ A ÅE "E J ÅE ¡Ö bE bD "CÄJÄÅÉ ¡ D Aƒ äÄ  E AE ‚D 
+ A ÅÖ "E J ÅE ¡E bE ¢DÄbCÄäÄ¡É  Aƒ Åƒ   
+ A≈ ÅE "E J Å ¡Ö bE ä ¡E F ¢E   ∆ AÜ ‚E ‚D ¢CÄ Ä A Åƒ ¡D 
+ J ÅE ¡E bE ä ¡Ö Ü ¢E "E ‚CÄ"@ÄÄ 
+Ä  	@Q¢J Ä Å¿ b@Ä 	@ £¿ $Ä    $¿  @ $  Ä $@ ¿ $Ä    Ä M          package        path 
+       ;../?.lua        require        common        Resolutions        Setting        Resolution        ENUM        800x600        GstRender.ResolutionWidth        GstRender.ResolutionHeight        Display Mode        Full-screen        GstRender.WindowBordersEnable        GstRender.FullscreenEnabled        GstRender.FullscreenMode        0        1 	       Windowed        Windowed Borderless        2        Resolution Scale        INT        100        GstRender.ResolutionScale +       OA_INT_MIN 25 OA_INT_MAX 200 OA_INT_STEP 1        Graphics Quality        Custom !       GstRender.OverallGraphicsQuality        Auto        Low        Medium        High        3        Ultra        4        5        Texture Quality        GstRender.TextureQuality        Texture Filtering        GstRender.TextureFiltering        Lighting Quality        GstRender.LightingQuality        Effects Quality        GstRender.EffectsQuality        Post-processing Quality        GstRender.PostProcessQuality        Mesh Quality        GstRender.MeshQuality        Terrain Quality        GstRender.TerrainQuality        Anti-aliasing Post        Off        GstRender.AntiAliasingPost        FXAA Medium 
+       FXAA High        TAA        Ambient Occlusion        GstRender.AmbientOcclusion        SSAO        HBAO        Undergrowth Quality        GstRender.UndergrowthQuality        GPU Memory Restriction        GstRender.ClampGpuMemory        On        gfedrsSetting        gameSignature 	       b f 1 . e x e          settingsEnabled        MFAA        GetConfigFilePath        Current_SplitNameValue        Current_ComposeString        Current_GetCurrentOptions        Current_SetOptions                           B Ä Ä J   Ö@  ¿   ú ÄÄ∆Å@¬  FA’AÇB ÇA@Ä ä ¿Ä
+Ä E√ ÜÉ@\É Ö√ ∆Aú "C  ¢B BÄ°Ä  Ä˙^   Ä           GetDisplayResolutions        ipairs       ?       x        @       table        insert 	       tostring                         %   0         ¿ @ Ä@@ ÄÄÖÄ  ¿   úÄ ÄÄÅ@ÄÖ  Õ¿@ Œ@¿úÄ @@¿ ÄÖ  Œ@@ úÄ       Ä                  Y@	       tonumber       ?       round                         ∏   ¬            A@  @ Ä  E¿  F ¡ Ö@ \Ä ÅÄ ÄÄ@   Å¿ UÄÄ ^   Ä           _print        GetConfigFilePath        assert        gfe        GetSpecialPath        GSP_MYDOCUMENTS        Cannot get My Documents path! 	(       B a t t l e f i e l d   1 \ s e t t i n g s \ P R O F S A V E _ p r o f i l e                           ƒ            E   F@¿ Ä   ¡Ä  \ ÅÄÄ   ÄZ  Ä ÄÄ ¿ÄûÄaÄ  Ä˝ Ä           string        gfind 
+       (.*) (.*)                         Ã   Œ        Ä   ¡    Ä ï û   Ä                                     –   ‹            A@  @ Ä  E¿  \ÄÄ Ö  ÄÄF@A Ä¡  ÄF¿A Ä¡ @ Ä	 ¬Ç	Ä¡ÉF@B Ä¬   Ä	¿¬Ç   Ä           _print        Current_GetCurrentOptions        DefaultLoadCfgFile        GetConfigFilePath        Current_SplitNameValue        GstRender.WindowBordersEnable        1        GstRender.FullscreenEnabled        0        GstRender.FullscreenMode        @                                ﬁ   ˚     ;   E   Å@  \@ EÄ  F¿¿ F ¡ F¿¿ F@  ÖÄ  Ü¿@Ü AÜ@AÜÄ  ¡Ä Z   ¿Äö   @Ä Ä A¡ Ä ÅE FA¬\ÅÄ ZA  @ ÄÇ  û ÖÅ ¿Äú¿Ä∆¬B√ FC’BÉ Å@ÄCCFÉCC É  Ä¿  °Å  @¸	¿Äá EA \ÅÄ Ä  ≈Å ¬ BÄ A Ä   Ä           _print        Current_SetOptions        Setting       ?      @       @               x        gfe        PrimaryDisplayModesDXGI        ipairs        Width        Height        RefreshNumerator        RefreshDenominator         GstRender.FullscreenRefreshRate        DefaultSaveCfgFile        GetConfigFilePath        Current_SplitNameValue        Current_ComposeString                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   string        gfind        .       ?       format        %02X        byte                         \  j    5   Ö   ≈@   Ä ‹Ä WÄ¿  Ä¬@  ¬ Ä ¡  ú@ÄÖ  Ü@A¿ Ä Å úÄÄö@  ¿Ä≈¿ ∆ ¬A EÅ ÄÄ \Å A‹@     ¡ @  ¿ÄE FB√ÖÇ ¿ √ úÄ\Ç  …@Ç!Å  @˝ADÖÅ Ü¡D¿Ä úÄÅ   AEA    Ä           assert        type        wstring &       Invalid argument to HexEditorSaveFile        io        wopen 	       w b          gfe        Error        Cannot open file for saving  	       tostring        ipairs        string        char 	       tonumber       0@       ret        write        table        concat                close                         o  t       ≈     A@Y Å   ÄA  Ä AÅ  ‹@Ä¡@    AA  ‡@Ä≈¡  ∆¡   @Ä ÅB ‹A ﬂ ˛ Ä           assert       ?       Position index overflowed        table        insert        00                         y  Ä    
+   ≈     Y Å   ÄA  Ä AA  ‹@Ä¡Ä    AÅ  ‡ Ä≈¡  ∆¡   @Ä ‹AÄﬂ@˛ Ä           assert        Position index overflowed       ?       table        remove                         â  è    	   ≈     Y   ÄA  Ä AA  ‹@Ä≈Ä   Ä ‹ @ Ä	¿å¿@·Ä  ¿˛ Ä           assert        Position index overflowed        ipairs       ?                        ñ  ¢    &     @@  ÄÅ   @¿  Ä‘   @ ÄÄ¡  `ÄFÅ WÄ¿¿ ÄFÅ Ü ÄÇ@ Ä@@ÄF¿ WÄ¿¿ ÄF¿ Ü ÄÇ@ Ä¡    Ä  TÄ L¿@@ ÄL@^ _A˘ Ä          ?        .        @                        ß  ≠    
+        Ä @ Å   ¡ ÄÄ@F¬ …@Å˛ﬁ   Ä          ?                        ≥  ∫    
+   E   î   ê@@WÄ@  ÄÇ@  Ç Ä ¡¿  \@ÄJ   Å  ‘   œ@¿ †¿ÄÖA ÜÅA¿  B¿ANB¿úÅ IÄÅüÄ˝^   Ä           assert        @        ,       String of odd length cannot represent bytes       ?       string        sub                         ¬  ƒ        Ä                             Ã  Œ         Ä                             ‘      Ø   J   Ö   ≈@  ú ÄÄ∆Å@
+  I Ç∆Å@∆¡Å ¬@…ÇÅ∆Å@∆¡Å A…Ç∆Å@∆¡Å BA…ÇÇ°Ä  Ä˚ä   ≈Ä  Ä ‹ ¿Ä¬ @  Ü¬¿ÇÄâ ÇB  ¿Ä BBAÇ Ä ¡¬ U¬ÇÅ BÄ·Ä  @˚      EA @ÄFÇC¿√¿ÄE ÜD\Ç @ƒÄÄFDFBÇÄƒÄ ÄFDä  …ÄÇE  Ü¬D\@ÄÖ ÜCE∆D∆√ÉÑ√úCÄaÇ  ¿˝FÇC¿√¿ÄE ÜD\Ç  ≈ÄÄE  ÜD\ ÄÜCÉÄD@ Ää  …ÄÉÖ  ∆√Dú@Ä≈ ∆D≈	EÉFÖC	FÉ
+‹DÄ°É  ¿˝aÇ   ˚!Å  ¿
+  EÅ Ä \@ÄÜÇ ÜAWÄE@ Ä¿E@Ä∆Ç ∆B¡ @  ÄÄÃ√ÇÕC∆É E  Ä \ ÄÖÑ ¿Ä≈ úÑÄ	ÉaÉ   ˛E ÖC ¿ ú \É  	A@Ä≈  Ç‹¿ÄÑ @ÄÑ Eƒ Ä  ¿  ÄT LEÖME∆
+\ÑÄî åÑÑÄÑ  Ä	¡·Ç  @˚aÅ  ¿Ò@ ÄÄ ^Ä Ä           ipairs        Pattern        name        pattern        type        length        pairs        HexEditorPatternMatch        gfe        Error        Cannot find setting         : pattern not matched        CONFIG_PATTERN_ERROR        Setting        @       ENUM       @       string        @       table        insert        INT        FLOAT        HexEditorSlice       ?	       tonumber       0@	       tostring        Binary_NumberFromBinary        HexEditorMakeArray                           ;    d   E   Ö@  ú Ä \Ä  ÖÄ  ¿ Ä ú¿ ¡  @  ÄF¬Ü¬ ÄÇ@ Ä	 ¡ÄÄEB ÄÄ ∆¬Å∆Ç¡\ÇÄZB  ¿ÄÖ¬ ÜB¡B  ÄAÉ ’BÉ√ úBÄÜ¬ÅÜCW@C@ ÄÄC@Ä≈ C F√ É F√ÅFÉƒ‹ÇÄ«¬ ≈¬ √ ‹@Äƒ E FD≈ÅÑ ≈ ∆ƒ≈	 Ä‹ \Ñ  	D·Ç  ¿¸≈  Ä E√ ÄÄ‹B ¿Ä∆¬‘Ä√   ÉÄÄEC ÄÄ ¿ÄƒÑF\C ¿Ä¿@ÄE√ ÄÄ ¿ÄÉÑF\C E ÄÄ ≈ ƒ ‹É  Ä\C !Å   Í^   Ä           HexEditorLoadFile        GetConfigFilePath         GetVariableLengthBinarySettings        pairs         HexEditorPatternMatch        pattern        gfe        Error        Cannot find setting         : its pattern is overwritten        CONFIG_PATTERN_ERROR        type        INT        FLOAT 	       to_write        Binary_NumberToBinary 	       tonumber        length        ipairs        string        format        %02X        byte        HexEditorOverwrite        HexEditorInsertZeroBytes        @       HexEditorRemoveBytes        HexEditorMakeArray                         C  E       E   Ö@  ¿   ú  ]   ^    Ä            GetVariableLengthBinarySettings        HexEditorLoadFile                         N  P       Ö   ≈@   Ä ‹Ä    ù Äû    Ä           HexEditorSaveFile "       ApplyVariableLengthBinarySettings                         Z  m    7   Ö   ¡@  ú@ ÖÄ  ≈¿     ‹Ä W ¡  Ä¬@  ¬ Ä A ú@ÄÖÄ  ≈¿   Ä ‹Ä WÄ¡  Ä¬@  ¬ Ä A ú@ÄÖ¿ ¿   úÄ ö@   Ä≈  ∆@¬Å A¡ ‹@Ä≈  ‹ÄÄ 
+  EA Ä \ÄÄÄÄ ¿Äú¬ ö  @Ä⁄  ¿ ÄÉÇ    Ä	¡aÅ  Ä¸  Ä           _print        DefaultLoadCfgFile        assert        type        wstring '       Invalid argument to DefaultLoadCfgFile 	       function        LoadFileIntoStringArray        gfe        Error )       LoadFileIntoStringArray returned nothing        LUA_SCRIPT_INTERNAL        MakeMatchHashFromSettings        ipairs                         z  ™    }   E  ÅA  \A EÅ  Ö¡  ¿  úÅ W A  ÄÇA  ÇÄ ¡A \AÄEÅ  Ö¡  ¿ úÅ WÄA  ÄÇA  ÇÄ ¡A \AÄEÅ  Ö¡  ¿ÄúÅ WÄA  ÄÇA  ÇÄ ¡A \AÄE¡ Ä  \Å ä  ¡ B EÇ ÄÄ¡¬ \Ä ÄÄ@ Ä \√ áC G E FCÉ WÄ√@ÄÄÄ¿Ä @Ä‹ÉÄƒ ’Ö â¡C¿ ÄÄÄ¿ ƒ ’!Ç  Ä˘WÄC¿ÄÇ  E¬  Ä \Ç W ƒ  ÄBB  BÄ ÅB BÄB @Ä ¿ÄF√ZC   ÄE  ÅC ¿Äï√\C @ÄÄÄ¿Ä  úÉÄ¡√ ’¡Éâ¡√!Ç  @˚B @Ä  ÄF√ZC  @ÄE  ÅÉ ¿Ä\CÄB  ^ !Ç   ˝¬ @  ÄÄÄ   Ä           _print        DefaultSaveCfgFile        assert        type        wstring '       Invalid argument to DefaultSaveCfgFile 	       function        LoadFileIntoString                pairs        Split        
+        name 	       oldValue         boolean "       Appending missing value to file:  ,       Failed to save because setting did not set:        SaveStringIntoFile                         ≥  Ò    w   Ö   ¡@  ú@ ÖÄ  ≈¿     ‹Ä W ¡  Ä¬@  ¬ Ä A ú@ÄÖÄ ≈¿    ‹  úÄ  ö@   ÄÖ  Ü@B¡Ä ¡ @  Å ’ Å ú@ÄZ   ¿ÄÖ@ ÜÄC¿   úÄ ö@   Ä≈  ∆@¬¡ E¡ Ä  \Å AA ‹@Ä    A ÅÄ EÅ Ä \@ÄÖ¬ ¿  úÇÄ√ T @ÉäÄ Ä∆BEÉE@ Ä√ÄCEE√ Ä ¿ \√ÄZ  @Ä¿Ä  Ä@Ä‹ÉÄ…¿  Ä… FaÅ  ¿¯ﬁ  ÄÄÖ@ Ü@F¿   úÄ ö@   ÄÖ  Ü@B¡¿ ¡ @  Å ’ Å ú@Ää   ≈@ ‹ÄÄ Å @ÄÄÄEB FÇ∆ÄÄ\Ç Z    Äâ@Ç!Å  Ä˝A ¡FAÄ û   Ä           _print        DefaultLoadXmlFile        assert        type        wstring '       Invalid argument to DefaultLoadXmlFile        CheckFileExists 
+       towstring        gfe        Error        Cannot open file  	       tostring        CONFIG_IS_MISSING        gfexml 
+       ParseFile        Cannot parse file as XML         CONFIG_IS_CORRUPTED        MakeMatchHashFromSettings        pairs        Split        ;       ?       @       xpath_RootSearchNode  	       ReadFile 	       ReadNode 
+       CloseFile                         ˝  O    Õ   ≈   A  ‹@ ≈Ä  ¡  @  Å W A  ÄA  Ä AA ‹@Ä≈Ä ¡ @   ‹Ä  ⁄@   Ä≈  ∆@¬Å E¡ Ä  \Å AA ‹@Ä≈@ ¡ @   ‹Ä  ⁄@   Ä≈  ∆@¬Å E¡ Ä  \Å AA¡ ‹@Äö    Ä≈Ä  ¡  @ Å W D  ÄA  Ä AA ‹@Ä≈Ä ∆¿ƒ   ‹Ä ⁄@   Ä ABA Ö¡ ¿  úÅ UÅÅÅA AÄÅ @Ä @ÄCÄÖ¬ ¿Ä úÇÄ√ T @ÉåÄ Ä∆BFÉF@ Ä√ÄCFE√ ÄÄ¿ \√ÄZC  ¿ÄW G@Ä≈C   ‹√ EÑ ÄÄ¿Ä\ÑÄ@ÄEƒ ÄÄ¿ \ƒÄÄ 	@ÄZ  ¿Ä≈C   ‹√ T MÑ@∆@ Ä@Ä¿ ÄT MÑMD∆FB G¿ ÄKƒ«¿Ä\DÄ Ä@ ÄÄ¿ \ƒÄ≈  Ä@ÄÄ 	‹D !Å  ¿ÓA»Å AÅ Ä ÅÅE¡ Ä  ¿ \AÄBÄ ^ ¿Ä≈Ä ∆ …   ‹Ä ⁄@   Ä≈  ∆@¬ E¡ Ä  \Å AAA ‹@Ä≈Ä  Ä ‹  ÄÇ BI@ ÄÄÇÄB  @Ä  AÇ	 Ä ¡¬	  ÄA
+ UBÉB    ·Ä   ˚≈Ä ∆@ ‹ÄÄ ⁄@  ¿ Ä  AÅ
+ Ä  AÄﬁ   Ä +          _print        DefaultSaveXmlCfgFile        assert        type        wstring *       Invalid argument to DefaultSaveXmlCfgFile        CheckFileExists 
+       towstring        gfe        Error        Cannot open file  	       tostring        CONFIG_IS_MISSING        CheckFileForWriting        Cannot open file for writing         CONFIG_IS_READONLY 	       function -       Invalid argument #3 to DefaultSaveXmlCfgFile        gfexml 
+       ParseFile        Cannot parse file as XML         CONFIG_IS_CORRUPTED        pairs        Split        ;       ?       @       xpath_RootSearchNode         xpath_RemoveBackstep        CreateTree        RemoveChild        updateNode        Format (       <?xml version="1.0" encoding="UTF-8"?>
+        SaveStringIntoFile 	       ReadFile 
+       WriteNode .       DefaultSaveXmlCfgFile: WriteNode failed for "        " and "        ".        WriteAndCloseFile (       DefaultSaveXmlCfgFile: cannot save file                         Q  g    4   ≈   A  @  Å WÄ@  ÄA  Ä A¡  ‹@Ä≈   A  @Ä Å WÄ@  ÄA  Ä A¡  ‹@Ä≈     @Ä ‹@ÄÀ@A ‹Ä ö@  ÄÄÅ @ÄÄ ÄK¬A ¿ \BÄ!Å  Ä˛A¡ Å EÅ Ä \@ÄÖ ¿ÄúÇ ÀBB @ ‹BÄaÅ  ¿˝ Ä 
+          assert        type 	       userdata 1       Invalid argument to updateNode. Use node of XML.        updateAttr        GetChildNodes        pairs        RemoveChild 	       copyNode        AddNode                         i  z    +   Ö   ≈@     ‹Ä WÄ¿  Ä¬@  ¬ Ä ¡  ú@ÄÖ   ≈@   Ä ‹Ä WÄ¿  Ä¬@  ¬ Ä ¡  ú@Äã A úÄ À ¡ ‹Ä A¡ Å WÄA¿ Ä¡A ãA¡ ú A   @Ä¿ ÄKBB ∆ÇB√B\B !Å  @˛ Ä           assert        type 	       userdata 1       Invalid argument to updateAttr. Use node of XML.        GetAttributes        Text                SetText        pairs        SetAttribute        Name        Value                         }  í    5   E   Ö@  ¿   úÄ WÄ@  ÄÇ@  Ç Ä ¡¿  \@ÄE  F@¡ \ÄÄ Z@  ¿ ÄÖÄ Ü¿A¡  ú@ Ö@ ÀÄB ‹  ú   ÄÀ¡¬ E Ä \ ‹A  °Ä   ˛ã@√ ÅC  ú@  ã¿√ D  ú@  ã@D úÄ ≈@   ‹ ¿ ÄÇƒ ÜÇ√∆¬ƒB ·Ä  @˛^   Ä           assert        type 	       userdata /       Invalid argument to copyNode. Use node of XML.        gfexml        CreateNode        gfe        Error 0       Attempt to create new node, but nil is returned        pairs        GetChildNodes        AddNode 	       copyNode        SetName        Name        SetText        Text        GetAttributes        SetAttribute        Value                         ñ  …    Ü   Ö   ≈@     ‹Ä WÄ¿  Ä¬@  ¬ Ä ¡  ú@ÄÖ   ≈@   Ä ‹Ä W ¡  Ä¬@  ¬ Ä A ú@ÄÉ  ≈Ä  Ä ‹¿ A¡ ãB úÅ UÅÅ@@ ÄÄ   ¿ÄE¡ Ä  ¿ \¡ÄáÅ GA EA Z  @ ÄÖ@  ÄE Ä  ¿ \ÅÄÄ ÄEA FÅ√\ÅÄ ZA  ¿ ÄÖ¡ ÜD¡A úA ÖÅ ¿Äú¡ ⁄  ÄÄB @Ä¬ G ¬ Ç E¬ Ç    Ä¬≈Ö ÜF≈¬ C úÇÄ≈Ç B ¿Ä¬ E¬ Ç   ¿ Ä«Ö BÄÄÄB E¬ Ç    ÄB ÇCÇÄ KÇG≈¬ \BÄKG≈ \BÄK¬«¿ \BÄ Ä¬ DA ÅB BÄÇ«Ä BÄ¬GÄÄBÄÇHÇ E¬ Ä \ Äã¬úÉ Ä  ÄÄ ÄaÇ   ˛û   Ä $          assert        type 	       userdata 6       Invalid argument to CreateTree. Use root node of XML.        string ,       Invalid argument to CreateTree. Use string.        xpath_PopRight        /        Name        optionNode        optionPath        xpath_RootSearchNode        CreateTree        gfexml        CreateNode        gfe        Error 0       Attempt to create new node, but nil is returned         xpath_SplitNodeTypeAndCondition        left        right        xpath_SplitCondition        xpath_IsAttribute        SetAttribute        sub        @       value        xpath_IsText        SetText        xpath_IsSubNode        SetName        AddNode         XPath Error: Unknown condition.        LUA_SCRIPT_INTERNAL        GetChildNodes        pairs                         ”  Î    7   E   Å@  \@ EÄ  Ä   \Ä W¿¿  ÄE  F@¡ ÅÄ ≈Ä     ‹Ä ï¿ ¡¿ \@ÄE  Ä   \Ä ä   ≈@ ‹ÄÄ Å @Ä¿ÄE¬ ÄÄ¡ \ÇÄä  ≈B ∆Ç√ Ä F√√L√√Ü√√∆ƒå√‹ ¢B  ≈B   ‹Ç ⁄  ¿ ÄÉ @ÄÉ â É!Å  @˘û   Ä           _print        DefaultLoadBinaryFile        type        wstring        gfe        Error         File path must be wstring, got         LUA_SCRIPT_INTERNAL        ReadBinaryFileIntoString        MakeMatchHashFromSettings        pairs        Split        ;        string        byte       ?       @       Binary_NumberFromBinary 	       tostring                         ı      @   Ö   ¿   úÄ W@@ ÄÖÄ  Ü¿@¡    @  Å ’ ÅA ú@ÄÖÄ úÄÄ ≈¿    ‹Ä  @Ä  ÄEB ÄÄ¡Ç \ÇÄÖ¬ ≈   ‹Ç  FC√ úÇ  ≈Ç   ‹ÄÄÄEƒ ÄÄ∆ƒÃÑÉ	 Ä\Ñ ¿ ÄED îÄWÄ  ÄÇD  ÇÄ \D ·Ç  Ä˚!Å   ˜Å @  ÄÄÄ   Ä           type        wstring        gfe        Error         File path must be wstring, got         LUA_SCRIPT_INTERNAL        MakeMatchHashFromSettings        ReadBinaryFileIntoString        pairs        Split        ;        Binary_NumberToBinary 	       tonumber        @       ipairs        ReplaceCharacter       ?       assert        SaveBinaryStringIntoFile                           *    7   E   Å@  \@ EÄ  Ö¿  ¿   úÄ W A  ÄÇ@  Ç Ä ¡@ \@ÄEÄ Ö¿ ¿   ú  \Ä  Z@   ÄE  F@¬ ÅÄ ≈¿    ‹Ä ï¿ ¡  \@ÄE@ \ÄÄ ä   ≈Ä  Ä ‹ ÄÄ¬ @ Å ÇÄFBDÜÇD≈¬ ∆≈   @ÄÄ ‹Ç ⁄    Äâ¿·Ä  Ä˚û   Ä           _print        DefaultLoadIniFile        assert        type        wstring '       Invalid argument to DefaultLoadIniFile        CheckFileExists 
+       towstring        gfe        Error        Cannot open file  	       tostring        CONFIG_IS_MISSING        MakeMatchHashFromSettings        pairs        Split        ;       ?       @       gfeini 
+       ReadValue                         4  F    Q   Ö   ≈@     ‹Ä WÄ¿  Ä¬@  ¬ Ä ¡  ú@ÄÖ  ≈@    ‹  úÄ  ö@   ÄÖÄ Ü¿A¡  A @  Å ’ ÅÅ ú@ÄÖ¿ ≈@    ‹  úÄ  ö@   ÄÖÄ Ü¿A¡  A @  Å ’ ÅA ú@ÄÖÄ ¿ Ä ú @Ä≈¡  ÄA ‹ÅÄ  TÄW@ƒ  ÄBB  BÄ ÅÇ BÄ¬ƒFBƒÖ ÜBE¿    @ÄÄ úÇÄöB  ÄÄ≈Ç √ @ÄC‹B ¬  ﬁ °Ä  ¿˜Ç Ä û   Ä           assert        type        wstring '       Invalid argument to DefaultSaveIniFile        CheckFileExists 
+       towstring        gfe        Error        Cannot open file  	       tostring        CONFIG_IS_MISSING        CheckFileForWriting        Cannot open file for writing         CONFIG_IS_READONLY        pairs        Split        ;        @       Incorrect config name format       ?       gfeini        WriteValue        _print &       DefaultSaveIniFile: cannot set value                          J  X    	   E   Ä   \Ä W@¿ @ ÄC Ä ^  E   ÜÄ@ \Ä ¿¿ @ ÄFÄ@ ^  A  Ö@ ¿   ú ¿Ä≈   Ä‹Å ¿¿Ä Ä@Å   Ä@ Ä°Ä  @˝^   Ä           type        table        n        number                pairs                         ^  i       ä   €@Ä   Ä¡   A  @   ÄEÇ  Ü¬ \Ç ¿¿@ÄE FB¡ÅÇ ¡¬ \BÄ@ ÄF¬ â Ç!Å   ¸û   Ä          ?       pairs        type        table        gfe        Error        Table cannot be key of hash        LUA_SCRIPT_INTERNAL                         p  à    0   ≈   ∆@¿   @Ä ‹ÄÄÄ¿¿ Ä  Ä    ‚@Ä ﬁ  WÄ@@ Ä¿@  ÄÅ      A @Ä ÅÅ ÅA É ≈  ∆¡¡   @ ‹Å@ÄL¡¿…ÄÇÄÄÄÄ  Ä@ Ä·Å  ¿˝WÄÄÄÄÃ¡¿  B@  Ä ÇÄ… Çﬁ   Ä 	          string        find        ?               (.-)        ()        gfind        sub                         î  ≥    ù     EA  Ä  \Å WÄ¿  ÄBA  BÄ Å¡  AÄW A@ Ä@A¿ ÄÅ @  A ¿¡ ÄÄW B@!ÄW@B¿ ÄÅ    Ä¿¬ ÄÄÅ  C@ÄÅA ÅÄÅ W A¿ ÄW ¡@ Ä A¿ Ä¡Å    ’Çﬁ ≈¡   ‹Å ¬ @ÄÇ E¬ Ä \Ç ⁄  ¿ Ä  @ ÄZB  @ ÄÅ û Ö¬ ¿ úÇ YÄÇ¿ Ä¡B    ’Éﬁ Y ¿ Ä¡Ç    ’Éﬁ ≈¬ É‹Ç –BÇW ≈ Ä¡B    ’Éﬁ ¿ÄÄ≈  ÄÅ  C@ÄÅ¡ ÅÄÅ W A¿ ÄW ¡@ Ä A¿ Ä¡    ’Çﬁ ≈¡   ‹Å ¬ @ÄÇ E¬ Ä \Ç ⁄  ¿ Ä  @ ÄZB  @ ÄÅB û Ö¬ ¿ úÇ YÄÇ¿ Ä¡B    ’Éﬁ Y @Ä¡Ç    ’Éﬁ  ÄÄ∆ @Ä¡ GAA ÅÅ AÄ Ä¡ GA¡ Ö ¿Ä úÅ UÅÅÅÅ AÄ Ä !          assert        type        string        Setting name must be string                  VerifySetting: value is empty:         BOOL        1        0        BOOL value must be 0 or 1.        INT        gfind 4       OA_INT_MIN (%d+) OA_INT_MAX (%d+) OA_INT_STEP (%d+) 9       VerifySetting: Cannot parse INT declaration for setting  	       tonumber        Invalid INT declaration -       VerifySetting: value is lower than mininum:  /       VerifySetting: value is greater than maximum:         round         1       VerifySetting: value is not reachable via step:         FLOAT 7       OA_FLOAT_MIN (.*) OA_FLOAT_MAX (.*) OA_FLOAT_STEP (.*) ;       VerifySetting: Cannot parse FLOAT declaration for setting         Invalid FLOAT declaration        ENUM        gfe        Error 2       VerifySetting must not be called for ENUM values!        SETTINGS_CONSISTENCY #       VerifySetting: unhandled OA type:  	       tostring                         π  ∆       Ü @ ∆@@ Å@ @Ä Å  ÅÄF¡@ Ö ¿  Ä@ ÄÄúÅÄö  @Ä≈A Ç @ ‹AÄ√Äﬁ   Ä          ?       @      @      @       VerifySetting        _print        === ERROR ===                         Ã  ÷       Ü @ ∆@@ Å@ @Ä Å¡  ÅÄFA ÖA ¿  Ä@Ä ÄÄúÅÄ≈Å W¿A  ÄB  Ä @ ‹AÄ  Ä          ?       @      @              @       VerifySetting        assert                          ‹      ]   J   Ö   ≈@  úÄ ≈Ä     ‹  Ä¬¿F¡ÜB¡∆∆¡É W¿  ÄBC  BÄ C √AW ¬@ÄW@¬¿ÄEÉ ÖÉ ¿ úÉ W¿B  ÄÇC  ÇÄ ¡ \CÄEC Ü¿Ä\ÉÄI@¿ÄE  ÜÜÉC\É ÜCÇÜA≈É   ‹É ¿√@Ä≈É Ñ @ Ñ W¿C  ÄD  Ä ‹C ≈É    ‹@ ÄÖI Ö	·É  ¿˛ÄÄ≈É Ñ @ Ñ W¿B  ÄD  Ä ‹C ≈É Ñ @ Ñ W¿B  ÄD  Ä ‹C IÄ·Ä   Î^   Ä           Array2Hash        Setting        pairs       ?       @      @       assert       @       ENUM        DRVENUM        type        string ?       Config name must be string. Multivalues only allowed for ENUM.        VerifySettingToSet       @       table                           ú    T  E   Å@  \@ EÄ  Z   ¿ ÄEÄ  Ä   ]  ^   E¿  Z    'ÄE  Ö¿  Ü@A\ @%ÄÖÅ ÜAö  @$ÄÉ W¿A @Ä≈A ∆Å¬¬  ¬BEÇ FBÅF√‹¡Ä ÄÄ@√@Äö  ¿Ä   â¡á¡¡  AB ‡Ä≈Ç ∆¬ƒÉC@ ‹BÄﬂA˛ ≈@Äö  ¿Ä≈ B Ä ‹  ÄÉ √DFÉCÄÄCÄ·Å   ˛Ä≈@Äö  ¿Ä≈ Ç ÇE¬EF‹ÄÄÄ E ÜÉC\ÄÄÖD ∆Ñ∆úÑ ÄÑ@ Ä  @ ÄaÉ  Ä˝  ÄÄEÉ F√ƒÜÉC≈C Ñ∆‹ \C  ·Å  Ä˘≈¡ Ç B¬EBD‹Å ⁄A   Ä¿A ¿Ä≈Å ∆¡ƒ EÇ FBÅF¬≈‹AÄÄÄö   Ä∆ÅC⁄  @
+Ä∆ÅC‘Ä¿Åá@	Ä    EÇ FBÅF¬≈F∆ ÄE ÜÉC\ÄÄÖD ¿ÄúÑ ∆ÑF¿	 ÄÖÑ ÜƒD	¿Ä  úDÄaÉ  Ä¸!Ç   ˚Ç B¬E	¬åÇ ¬DE ÖÇ ÜBÜ¬EBÄaÄ  ¿ŸEÄ Z    ÄC Ä Ö  ≈Ä ú @Ä≈¡ H‹Å @» Ä≈Å HF ÇZ@   	Ä≈¡ ∆…B	 EB ÜÇIÜBD\Ç Å¬	 ≈B H‹Ç 
+ AB
+ ‹AÄ Ä≈¡ H‹Å Ä @ ÄF H@Ä≈¡ ∆…¬
+ EB ÜÇIÜBD\Ç Å ≈¬ H‹Ç ¬AB
+ ‹AÄW¿A ¿ Ä¿Ä ‹ÅÄ ⁄   Ä≈Å ∆¡ƒ FÇI‹AÄ°Ä  ¿J   ä   ≈   ‹ ¿ÄBƒFÇ∆ÖB ∆Ç WÄÀ  Ä¬B  ¬Ä √ @ CúBÄI L@ÃÄÄÖÇ Ü¬D¿ 
+Ä@ ÅÉ ¿Ä"CÄúBÄÖÇ Ü¬D¿ 
+Ä@ Å√ ¿Ä"CÄúBÄ@ÄW Õ@ Ä@Õ¿Ää  ≈ ∆‹¿ÄDƒÄM¿ ÄFZ    Ä ÄED ÜWÄK	  ÄÇD  ÇÄ ¿ ≈ @ ’DÖ	\DÄâLEÑ FƒƒÄ  Ä  @ ÄÄ‚DÄ\DÄ·Ç  @¯@ÄW Œ@ Ä@Œ@ÄÖÇ Ü¬D¿ 
+Ä@ ÜÉŒ¿Ä"CÄúBÄ¿ ÄÖB ¬  √ úBÄ·Ä  @Ëû   Ä <          _print        game_GetOptions        Current_GetAllOptions        gfedrsSetting        pairs        settingsEnabled        GFEDRS_SETTINGS        known        drvErr        gfedrs        GetSettingInfo        gameSignature        gfedrsNumber        OPTIMAL_REFRESH_RATE        values              ‡o@      ?       table        insert        CPU_FREQUENCY        getCPUValues        VSYNC        settingTable       @	       tonumber        @       SettingTableContains        Setting 	       tostring        conditionalSettings        type 
+       condition        string        Conditions        gfe        Error        Unexpected condition name of '        element 	       ', got '        '        LUA_SCRIPT_INTERNAL 	       function        Unexpected condition type of ' "       ', expected string/function, got         assert         Duplicate Setting:         BOOL        0        1        ENUM        DRVENUM        Resolution         has duplicate Value:         INT        FLOAT       @       Unhandled OA type                         ©  ´           A@        Ä           game_GetOptions        all                         ≤  ∆     ;      A@  Ä J  I ¡ÅI ¡ÇI AÉI ¡ÉI AÑI ¡ÑI AÖI ¡ÖI AÜI ¡ÜI AáI ¡áI AàI ¡àI AâI ¡âI AäI ¡äI AãI ¡ãI AåI ¡åI AçGÄ  E¿ Ä   \ @ÄÜ«@GÄ ÄÖÅ  ∆Å«â¡«aÄ  ¿˝E¿ ÖÄ  \ ÄÄZA   ÄÖ ÜAH¿  
+ÄAB Ä ¡Ç "BÄúAÄaÄ  Ä¸   Ä #          game_GetOptions        known        default_res        800x600  	       1024x768 	       1152x864 	       1280x720 	       1280x768 	       1280x800 	       1280x960 
+       1280x1024 	       1360x768 	       1366x768 	       1600x900 
+       1600x1024 
+       1600x1200 
+       1680x1050 
+       1920x1080 
+       1920x1200 
+       1920x1440 
+       2048x1536 
+       2560x1440 
+       2560x1600 
+       3840x2160 
+       3620x2263 
+       5120x3200        pairs       ?       Resolution        @       table        insert        ENUM                         Õ  ¿     ·     A@  @ Ä     ÄÄ   E¿  ÖÄ  \ ¿ÄÖ ∆A¡úÅ ÄA ÄÖ¡ ∆A¡¿@   	ÄÖ ÜAB¡Å ¬ F√FB√Ç AÇ Ö¬ ∆B¡úÇ ¡¬ ’¡Ç úAÄ ÄÖ ∆A¡úÅ @D@ Ä@¡@ÄÖ ÜAB¡Å ¬ F√FB√Ç A¬ Ö ∆B¡úÇ ’ÅÇ úAÄÄ  úÅÄ ö   ÄÖ ÜAE≈Å √úAÄaÄ  @Ò¿ ÄÄ @  @ ÄC Ä ^  E  Z   @%ÄE¿  Ö  Ü@F\ Ä#ÄÖÅ ÜAö  Ä"ÄÖ¡ ÜG≈ ∆A«Ç BÇGú¡Ä¿«@Äö  ¿Ä
+  âêB AÇ ÅB  Ä CEFHÄÄCÄB˛¿»@Äö  ¿Ä¬  E	 \Ä   ÄE FC≈ÜH¿ \CÄ!Ç   ˛@…@Äö  ¿Ä¬  EÇ FB…FÇ…F¬…ÄÄBÄ Ö√  ∆HúÄÄ≈
+ EJ‹Ñ ¿	@ ÄB  @ Ä°É  Ä˝Z  ÄÄÖ ÜCE∆H
+ FDJ úC  !Ç  Ä˘Ç
+ EÇ FBÅFÇ…FB√Ç B  ÄÄö   ÄH  @ÄH  Çê@Ä
+  E¬  ÖÇ ÜBÜÇIÜ¬I\ ÄÖ√  ∆HúÄÄ≈ƒ   	‹Ñ E  Ö	 Ä≈ ∆D≈	  @Ä‹DÄ°É  Ä¸aÇ   ˚EÇ FBÅFÇ…IÇìE FB≈ÖÇ ≈Ç ∆BÅ∆Ç…\BÄEÇ FBÅFÇ…F¬ Ö¬ ∆KúÇ 	ÄÇaÄ  Ä€E@ \ÄÄ ÖÄ ≈Ä úÄ     ¡  @  ¿ÄE¬ Ü¬Å ¡  Ä’É\ÇÄÖ¬ ∆BC úÇÄ∆BJ E Ü√J\É  ≈¿
+ÄJ  ÖÉ ∆√Jú@ Ä∆Ñ I√	°É  ¿˛ÖÉ ∆√IúÉ ≈√    ‹@ÄE E≈  ÜE 	\ÄÄÜ∆JÜÜÜÜW@@ ÄE @ ÄaÖ  Ä˝@C
+@ Ä  	@ Ä·É  ¿˙C  @
+Ä≈  ƒ @ÄD‹C ¿ÄW Õ¿ÄW@Õ@ÄEÉ Ä ¿ \ÉÄ Ä@ÄEÉ Ü√I¡C
+ \ÉÄÇC  @Ä Ö ¿ úÉ ¿M¿ ÄÖ√ ¿ úÉ   Ö  ¡  ÄAD Ä ’ÉÑúC   ÄCC   ÄJ Ä ¿ÄbC …@É!Å  @ÂÅ   ÄÄ
+  E¡  ÖÅ \¿ÄÜÇÜBC∆ÇÇ⁄  ÄÄ≈¬  ÉÇ‹ Ä  Aƒ Ä ¡  ÄAE Ä ¡Ö   UÜD ÑÉ	ƒÉÜ
+  	Ñ	ƒÉÜÑFÑÉFD 	DÑî·Ç   ˙aÅ  @˜E¡  Ä \@ÄÜB√≈¬  É ‹ÄÄD√ ¿ÄD W MÄ ÄD @MÄÄƒ E Üƒ…\Ñ W ≈  ÄBD  BÄ D   Eƒ  Üƒ…\¿ ÄÜE√
+Ä  ÄÄ aÑ  @˛D  ¿ÄEƒ Å ¿ E @ ÅÖ ïÑ	\D ÄÄƒ FD√ÜD ¿ —ÑÄ  ÄÄE FD¬Öƒ ¿ úÑ ¡D \DÄ·Ç  ÄÒaÅ  ¿Ô
+  E¡  ÄÄ\@ÄÜB ÄQ@ÄÖÇ Ü¬Q¡ C√úÇÄIÇÇÜÖ ÜBE¿ 
+Ä@ ÜC√∆C "CÄúBÄaÅ  ¿˙  Ä I          _print        game_GetCurrentOptions        conditionalSettings        pairs        type 
+       condition        string        Conditions        gfe        Error        Unexpected condition name of ' 	       tostring        element       ?	       ', got '        '        LUA_SCRIPT_INTERNAL 	       function        Unexpected condition type of ' "       ', expected string/function, got         table        insert        Setting        Current_GetCurrentOptions        gfedrsSetting        settingsEnabled        GFEDRS_SETTINGS        gfedrs        GetSettingInfo        gameSignature        gfedrsNumber        OPTIMAL_REFRESH_RATE        values              ‡o@       CPU_FREQUENCY        getCPUValues        VSYNC        settingTable       @	       tonumber        @       SettingTableContains       @       current        MakeMatchHashFromSettings        Array2Hash        assert         Unexpectedly missing value for         Unexpectedly missing value        ipairs 8       game_GetCurrentOptions: cannot match any value set for         ENUM        DRVENUM        VerifySettingToGet        boolean +       game_GetCurrentOptions: Unknown value for         ! . Value not matched:  
+       Overrides $       game_GetCurrentOptions: overriding          to          because of          value         error !       game_GetCurrentOptions: setting          with value          was not found        VerifySetting       @       SETTINGS_CONSISTENCY        FLOAT        format        %.3f                            D      E   Å@  \@ EÄ  \ÄÄ Z@  @ ÄÇ   û  Ö¿  ≈  ú @Ä¬  ¬  @  @ÄFCAÜÉAÜCAÄÉ  Ä¬Ä !Ç  ¿˝⁄A  ÄÄB TÄ ÅB  BÄ√Ç   ÄÄ√Ç CAFÉAFC¡@  ÄI¿¡˝°Ä  ¿˜Ö  ≈@ úÄ ≈¿     ‹ ¿ÄB¡FÇ¬Ü¬¬≈   @ ÅC ¿ÄD @ C‹B ∆⁄  @Ä∆∆Ç¬ÄÇÄÄ¬  ÉBWÄC¿ ÄÉB¿C Ä FFƒÉ FCZ  @ Ä¬Ä  ÄAC ÜÜÉB¡É  ÄAƒ Ä UÉÑÖ ÜCE≈É  Ä‹É ƒ úCÄ  Ä¬Ä  ∆¿Ä  E√  ÄÄ \ÄÄÜD¡Ä¿ÄÜƒ¬ÄÄ ÄIDÖÄ @ÄÅD ¿ ïƒ	≈ ∆D≈	Ö @ 	Ö A≈ ‹DÄaÉ  Ä˙ÄF¿ÄE√ F«ÄÄ  Ä  @ÄÄ ‚CÄ\CÄ@Ä¡B   ’É CEEÉ ÄÄ\É Å√ CÄÄÄ¡Ç   A√ ’BÉ CEEÉ ÄÄ\É Å√ CÄ·Ä  @‚≈¿   Ä ‹  Ä  A ÜB¡¡B É¬AC Ü√¬UÇÉB ·Ä   ˝≈@  Ä ‹Ä ⁄@  @ Ä   Å   ÄÄ
+  E¡  ÖÅ Ü¡H\@ÄÖ ÜBö  @ÄÖ ÜBÜÇAÜIÜÇÇö  ÄÄäÇ  ≈ ∆BÇ∆Ç…â¬Çí≈
+  CÉAIÉ‹Ç â¬Çì≈¬ ∆«  @ ‹BÄ≈ ∆BÇ∆Ç¡∆……¿¡aÅ  ¿ˆT @Åî@ÄEÅ
+ F¡ ÖÅ ÜK¿ \¡Äö  @Ä≈ ∆A≈Ç @ Ç AB Ö ≈Ç Ü¬ÜÇI¡¬ É EÉ FÀÉ A ‹AÄA @Ä    Ä 2          _print        game_SetOptions        game_GetCurrentOptions        pairs        GFEDRS_SETTINGS       ?       settingTable         Array2Hash        Setting        @      @       game_SetOptions: want to set:         ,         ENUM        DRVENUM       @       game_SetOptions: Incorrect          value          for setting         gfe        Error 	       tostring        SETTINGS_CONSISTENCY &       game_SetOptions: mismatched type for          table        insert 4       game_SetOptions: mismatched input type ignored for         game_SetOptions: setting          not found.        game_SetOptions: will be set:  '       UserVisibleSettingValuesToConfigValues        gfedrsSetting        settingsEnabled       @       id        gfedrsNumber        value 	       tonumber                gfedrs        SetSettings        gameSignature $        while trying to set NVAPI setting         setting         for game signature         DRIVER_ERROR        Current_SetOptions                         I  N           A@  @ 
+   EÄ  F¿¿ Ä   ¡  \@Ä   Ä           _print        GetBenchmarks        table        insert        Manual                         W  m    
+:   Ö   ≈@     ‹Ä WÄ¿  Ä¬@  ¬ Ä ¡  ú@ÄÖ   ≈@   Ä ‹Ä W ¡  Ä¬@  ¬ Ä A ú@ÄÖÄ ¿ Ä ú¿ ¡A Å WÄ @ ÄÄÄ  K¡A \Å WÄÄ  ÄBA  BÄ Å AÄ AA ÖÅ ¿Äú¡ @Ä¿  Ö¡ ¿   Äú¡Ä⁄  Ä ÄÄBÇ  @ÄÄ Ä           assert        type 	       userdata @       Invalid argument to xpath_RootSearchNode. Use root node of XML.        string 6       Invalid argument to xpath_RootSearchNode. Use string.        xpath_PopLeft        Name        Wrong root element.                xpath_RemoveBackstep        xpath_SearchChildNode                         o  y       A   Ä   À@@‹Ä ÀÄ¿A¡  ‹ÄÄ ¡ ÄL ¡ Å @ ¡ Ä ÄA A@Å Å@Å¡  ÅÄ¿   ¸  @Ä Ä Ä                   reverse        find        %.%.       ?       _        xpath_PopRight                         {  ª    é   Ö   ≈@     ‹Ä WÄ¿  Ä¬@  ¬ Ä ¡  ú@ÄÖ   ≈@   Ä ‹Ä W ¡  Ä¬@  ¬ Ä A ú@ÄÖÄ ¿ Ä ú¿ ¡ @ ¡ Ä ≈   ‹Å ⁄A   Ä≈A ∆Å¬¬ A ‹AÄ   BC Ç EÇ Ä \ ÄÇ  À√√‹É ÄÅ@ÄZ  ÄÄ≈  Ä‹√ ED ÄÄ\Ñ Z   ÄE FÑƒÄÄ¡ƒ \ÑÄã≈ ÄúÑÄW 	  ÄÇC  ÇÄ ÄÄED ÄÄ\Ñ Z  ÄÄKÑ≈\Ñ W Ñ  ÄÇC  ÇÄ ÄÄEÑ ãD√ú \ @Äã≈√
+úÖ ¿@ÄãÖ≈
+úÖ  @ ÄÇÄ ¿ ÄaÑ  ¿¸  ÄÇÄ ö  ¿Ä⁄@  @Ä¿Ä
+Ä @Ä"DÄ ﬁÄ¿Ä≈√  Ä@Ä‹√Ä⁄  @ÄE FD∆ÄÄ¿Ä\DÄAÑ î ¡Ñ `ÄE FE∆
+ÄÄ∆\EÄ_D˛@ÄÄÄ^ÄaÇ   ËC ^Ä Ä           assert        type 	       userdata <       Invalid argument to xpath_SearchChildNode. Use node of XML.        string 7       Invalid argument to xpath_SearchChildNode. Use string.        xpath_PopLeft         xpath_SplitNodeTypeAndCondition        xpath_IsElement        gfe        Error        XPath Error: Wrong syntax.        LUA_SCRIPT_INTERNAL        GetChildNodes        pairs        Name        xpath_SplitCondition        xpath_IsAttribute        sub        @       GetAttribute        xpath_IsText        Text        xpath_SearchChildNode        table        insert       ?                        Ω  »    
+    E   F@¿ Ä   ¡Ä  \¿Ä√  Z   ÄÄE  F¡¿Ä  ¡ ¡ \Å ¿ ÄE  F¡¿Ä  Ã¡   BA@  Ç A\Å  Ä  Ä¿   @ÄÄ ^Ä Ä           string        find        %[        sub       ?       len                         À  ”       E   õ   ÄÄÖ@  ¿   úÄ WÄ@  ÄÇ@  Ç Ä ¡¿  \@ÄK A \Ä K@¡ ¡Ä \ÄÄZ    ÄÖÄ  Ü¿A¿     A Bù Äû     Ä   Ä 	          assert        type        string &       Invalid argument to xpath_LastSegment        reverse        find        /        sub        @                        ’  ÿ       E   Ä   \Ä ã@¿ Å  AÅ  úÄ W¿@  ÄÇ@  Ç Ä û   Ä           xpath_LastSegment        sub       ?       @                         ⁄  ‹       E   Ä   \Ä S Ä ^   Ä           xpath_IsAttribute                         ﬁ  ‰       E   F@¿ Ä   ¡Ä  \ÄÄZ   Ä ÄB Ä ^  @ ÄB   ^   Ä           string        find        text()                         Ê  Ë       E   Ä   \Ä Z   ¿ ÄE@  Ä   \Ä S Ä ^   Ä           xpath_IsElement        xpath_IsText                         Í  Ú    	    E   F@¿ Ä   ¡Ä  \¿ÄZ@   Ä≈¿  ∆ ¡A AÅ ‹@Ä≈   ∆¿¡   A ç¬ ‹Ä   ¡A@  åA¬ ≈  ∆Å¬   ‹Å Õ¬Å @ÄÄ ^Ä Ä           string        find        =        gfe        Error 9       XPath Error: Wrong syntax. Only support equal condition.        LUA_SCRIPT_INTERNAL        sub       ?       @       len                         Ù  ˛    )   E   õ   ÄÄÖ@  ¿   úÄ WÄ@  ÄÇ@  Ç Ä ¡¿  \@ÄK A \Ä K@¡ ¡Ä \ÄÄZ   @ÄÖÄ  Ü¿A¿     A BúÄÄ≈Ä  ∆¿¡   AA î  çA ‹Ä   @ÄÄÄ ÄÄ   √ Äû Ä Ä 
+          assert        type        string #       Invalid argument to xpath_PopRight        reverse        find        /        sub        @      ?                         	  	    (   E   F@¿ Ä   ¡Ä  Å  \Ä ¿¿ @ÄE   F@¿ Ä   ¡  \ÄÄ  Ä E   F@¡ Ä   ¡¿  \¿ÄZ   ÄÄ≈   ∆@¿   AÅ  çÅ¿ ‹Ä   A@@  åÅ¿ ÅÄ@ÄÄ ^ÄÄ Ä¿    ﬁ Ä Ä           string        sub       ?       /        @       find                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ˛
+ V  t
+  ˘"         ! 	      ‡        ˘  @à          Ï&›zÎ¢æ@ÏôÚ#Å    
+       Ä  B  ˇPRIMARYˇ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ˇ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   InnoDB      ÛÛ                                                                                                                                                                                                                                                                 C  "K         P             B   ‡     ¸
+   @   ‡     ¸  @   ‡       D   ¸‡       D   ¸‡           ‡       äÄ   ‡       äÄ   ‡  ˇidˇquestionˇquestion_arˇanswerˇanswer_arˇis_activeˇcreated_atˇupdated_atˇ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ˛
+ V  M  ˘)          !       ‡        ˘  @à          Ï>fÕ›zÎ¢æ@ÏôÚ#à    
+       Ä  B  ˇPRIMARYˇ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ˇ                                           InnoDB      ≈≈                                                                                                                                                                                                                                                                 v   ) ?         P             B   ‡      
+  B@   ‡        B@   ‡        B@   ‡      "  äÄ   ‡      &  ä
